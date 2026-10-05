@@ -29,7 +29,7 @@
 
 ## 🛠️ Technical Arsenal
 
-<details>
+<!-- <details> -->
   
 ### Core Stacks (MERN & MEAN)
 ![MERN Stack](https://img.shields.io/badge/MERN_Stack-MongoDB_|_Express_|_React_|_Node.js-005571?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -79,7 +79,7 @@
 ![RAG & Vector Search](https://img.shields.io/badge/GenAI_RAG_&_Vector_Search-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-</details>
+<!-- </details> -->
 
 ---
 
